@@ -1,4 +1,4 @@
-package com.hy.dailyllifeschedules;
+package com.agg.dailyllifeschedules;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

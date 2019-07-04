@@ -1,7 +1,7 @@
-package com.hy.application.contract;
+package com.agg.application.contract;
 
-import com.hy.application.base.MvpBasePresenter;
-import com.hy.application.base.MvpBaseView;
+import com.agg.application.base.MvpBasePresenter;
+import com.agg.application.base.MvpBaseView;
 
 /**
  * <pre>

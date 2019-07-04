@@ -1,10 +1,10 @@
-package com.hy.application.base;
+package com.agg.application.base;
 
 import android.support.v7.app.AppCompatActivity;
 import android.text.TextUtils;
 import android.widget.Toast;
 
-import com.hy.application.utils.ToastUtils;
+import com.agg.application.utils.ToastUtils;
 
 /**
  * <pre>

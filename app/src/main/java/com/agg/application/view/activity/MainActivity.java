@@ -1,13 +1,13 @@
-package com.hy.application.view.activity;
+package com.agg.application.view.activity;
 
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 
-import com.hy.application.R;
-import com.hy.application.base.BaseActivity;
-import com.hy.application.contract.MainContract;
-import com.hy.application.presenter.MainPresenter;
-import com.hy.application.view.recyclerview.DateListAdapter;
+import com.agg.application.R;
+import com.agg.application.base.BaseActivity;
+import com.agg.application.contract.MainContract;
+import com.agg.application.presenter.MainPresenter;
+import com.agg.application.view.recyclerview.DateListAdapter;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

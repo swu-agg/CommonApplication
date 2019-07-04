@@ -1,4 +1,4 @@
-package com.hy.dailyllifeschedules;
+package com.agg.dailyllifeschedules;
 
 import org.junit.Test;
 
